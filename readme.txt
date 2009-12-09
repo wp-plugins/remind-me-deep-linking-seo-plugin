@@ -23,7 +23,8 @@ Remind me will provide you with related articles based on Titles, Post Content, 
 
 == Frequently Asked Questions ==
 
+Questions are available at: [iMod.co.za](http://imod.co.za/remind-me/)
 
 == Screenshots ==
 
-1. The write panel
+Screenshots are available at: [iMod.co.za](http://imod.co.za/remind-me/)
