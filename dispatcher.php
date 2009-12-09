@@ -69,12 +69,12 @@
 			$this->view->config = jtUtility::getConfig("jtModelRemindMe","jt_remind_me");
 			$link = new stdClass();
             $link->link_id = 999999;
-            $link->link_url = "http://imod.co.za";
-            $link->link_name = "Remind Me SEO";
+            $link->link_url = "http://imod.co.za/remind-me/";
+            $link->link_name = "Wordpress SEO Plugin";
             $link->link_image = "";
             $link->link_target = "_blank";
             $link->link_category = 0;
-            $link->link_description = "some description";
+            $link->link_description = "Wordpress SEO Plugin";
             $link->link_visible = "Y";
             $link->link_owner = 1;
             $link->link_rating = 0;
@@ -84,7 +84,7 @@
             $link->link_rss = "";
             $link->object_id = 9999999;
             $link->taxonomy = "link_category";
-            $link->description = "some description";
+            $link->description = "Wordpress SEO Plugin";
             $link->parent = 0;
             $link->count = (count($content) + 1);
             $link->recently_updated = 0;
