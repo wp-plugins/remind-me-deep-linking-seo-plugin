@@ -1,4 +1,5 @@
 === Remind Me ===
+Contributors:
 Tags: seo, deep linking
 Requires at least: 2.3
 Tested up to: 2.8.6
@@ -25,4 +26,4 @@ Remind me will provide you with related articles based on Titles, Post Content, 
 
 == Screenshots ==
 
-1. Write Panel (screenshot.png)
+1. The write panel
