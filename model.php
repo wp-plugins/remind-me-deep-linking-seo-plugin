@@ -37,7 +37,7 @@ class jtModelRemindMe extends jtModel {
 	public function getDefaults() {
 		$default = array();
 		$default["perPage"] = 10;
-		$default["support"] = 1;
+		$default["support"] = 0;
 		$default["defaultOrder"] = "post_date DESC, post_title ASC";
 		$default["blogroll_url"] = "http://imod.co.za";
 		$default["blogroll_title"] = "Remind Me SEO Plugin";
@@ -82,13 +82,7 @@ class jtModelRemindMe extends jtModel {
 			$params["tags"] = trim(str_replace(",", '","', $params["tags"]));
 			$params["tags"] = '"' . $params["tags"] . '"';		
 			$searchWhere->add("`t`.`name` IN ($params[tags])");			
-		}
-		
-//		if($params["tags"]){	
-//			
-//			$searchWhere->addLike("destinations", urldecode($this->area), "b", true);
-//			$select->where->addWhere($searchWhere);
-//		}		
+		}				
 
 		// add the search text
 		if (!empty($params["highlight"])){
