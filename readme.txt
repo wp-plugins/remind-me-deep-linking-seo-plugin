@@ -1,4 +1,5 @@
 === Remind Me ===
+Contributors:
 Tags: seo, deep linking
 Requires at least: 2.3
 Tested up to: 2.8.6
@@ -14,6 +15,8 @@ Once the plugin has been uploaded and activated, you will see a special area bel
 
 Remind me will provide you with related articles based on Titles, Post Content, Tags and Categories, thus returning really good related articles. Linking from one post to another post of similiar content is not only hugely beneficial for SEO, but also a fantastic way to keep your visiter interested and increase your page views.
 
+Please note: Most compatible with PHP5
+
 == Installation ==
 
 1. Upload the `remind-me` directory to the `/wp-content/plugins/` directory
@@ -22,7 +25,8 @@ Remind me will provide you with related articles based on Titles, Post Content, 
 
 == Frequently Asked Questions ==
 
+Questions are available at: [iMod.co.za](http://imod.co.za/remind-me/)
 
 == Screenshots ==
 
-1. Write Panel (screenshot.png)
+Screenshots are available at: [iMod.co.za](http://imod.co.za/remind-me/)
