@@ -3,7 +3,7 @@
 Plugin Name: Remind Me
 Plugin URI: http://imod.co.za/remind-me/
 Description: Remind Me helps you create deep links on your blog easily by showing related posts with its fancy jQuery look up window in the Write Panel of your Dashboard.
-Version: 0.1
+Version: 0.3
 Author: Christopher Mills
 Author URI: http://www.christophermills.co.za
 */
