@@ -3,7 +3,7 @@ Contributors:
 Tags: seo, deep linking
 Requires at least: 2.3
 Tested up to: 2.8.6
-Stable tag: 0.2
+Stable tag: 0.1
 
 Remind Me helps you create deep links on your blog easily with it's fancy jQuery look up window in the Write Panel of your Dashboard.
 
