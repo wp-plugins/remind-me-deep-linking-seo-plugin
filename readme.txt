@@ -3,13 +3,13 @@ Contributors:
 Tags: seo, deep linking
 Requires at least: 2.3
 Tested up to: 2.9.1
-Stable tag: 0.3
+Stable tag: 0.4
 
 Remind Me helps you create deep links on your blog easily with it's fancy jQuery look up window in the Write Panel of your Dashboard.
 
 == Description ==
 
-The Remind Me Wordpress plugin is the ultimate deep linking plugin available to Wordpress users. A deep link is a link from one of your posts to another post on your website. Instead of always linking to your home page, deep linking allows you to build authority on various posts you've already written. This authority increase results in more traffic coming to these posts from search engines. In other words, instead of always battling to get your home page to rank well Google, you'll now be able to rank all your articles on Google.
+Being able to easily link from one post to other posts that are of similar content on your blog allows you to not only create a journey for your readers, but also create strong deep linking content - this is a powerful way of building page rank across the various pages of your blog.
 
 Once the plugin has been uploaded and activated, you will see a special area below where you write your posts, which will provide you with a list of posts related to the post you're currently writing. I'm sure you've been writing an post before and had the big mission of tracking down the link to a previous post you wrote on a similiar topic. I know I've been there and it's a big mission - Remind Me solves this!
 
@@ -25,7 +25,21 @@ Please note: Most compatible with PHP5
 
 == Frequently Asked Questions ==
 
-Questions are available at: [iMod.co.za](http://imod.co.za/remind-me/)
+= How do I find more relevant posts to link to? =
+
+Assign your post to a category, add tags and then click the Refresh List link, you will see new results appear after a few seconds.
+
+= Can I change the way the suggested posts are sorted? =
+
+Yes, locate the Remind Me settings tab on the left in your Dashboard. Here you are able to provide MySQL queries to customize the order
+
+= Can I list more suggested links? =
+
+Yes, locate the Remind Me settings tab on the left in your Dashboard. Here you are able to set the number of posts to show.
+
+= How can I find out more? =
+
+You can [Follow me on Twitter](http://www.twitter.com/christopherm) and I will keep you updated.
 
 == Screenshots ==
 
