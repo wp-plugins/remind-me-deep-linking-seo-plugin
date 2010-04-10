@@ -3,7 +3,12 @@ jQuery(window).load(function(){
 	var remindMeIframe = jQuery("#content_ifr").contents();
 	//console.log(remindMeIframe);
 	function remindMeProcess(){
-		var url = "http://localhost/wordpress/wp-content/plugins/remind-me/remind-me.php";
+		//ajaxurl = 0;
+		//console.log(ajaxurl);
+		if (typeof ajaxurl == "undefined"){
+			var ajaxurl = window.location.protocol+'//'+window.location.hostname+window.location.pathname;
+			ajaxurl = ajaxurl.substr(0,ajaxurl.length - 8)+'admin-ajax.php';			
+		}
 		var i = 0;
 		var catString = jQuery("#categories-all :checked").serialize();
 		var selString = tinyMCE.activeEditor.selection.getContent();
